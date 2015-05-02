@@ -1,0 +1,8 @@
+---
+layout: post
+title: "myTitle"
+date: 2015-05-02 13:53:27 +0800
+comments: true
+categories: 
+---
+##haha
